@@ -12,7 +12,6 @@ public class RetailerReturn_Model {
     @Autowired
     public Retailer_Return_OReturns retailerReturnOReturns;
 
-
     public void enterOrderNumber(String enterOrderNumber){
         SendKeyBy(retailerReturnOReturns.EnterOrderNumber , enterOrderNumber);
     }

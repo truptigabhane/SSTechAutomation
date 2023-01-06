@@ -119,8 +119,21 @@ public class elementCommonUtils {
         return arrOfStr[1].trim();
     }
 
-    public void assertBoolValues(Boolean expected , Boolean actual){
+    public static void assertBoolValues(Boolean expected, Boolean actual){
         Assert.assertEquals(expected ,actual);
     }
 
+    public static void assertStringValues(String expected, String actual){
+        Assert.assertEquals(expected ,actual);
+    }
+
+    public static void inputFieldIsEmptyOrNot(WebElement myFields){
+        if (myFields.getAttribute("value") != "") {
+            System.out.println("Not Empty Field");
+        }
+        else {
+            System.out.println("Empty Field");
+        }
+    }
 }
+

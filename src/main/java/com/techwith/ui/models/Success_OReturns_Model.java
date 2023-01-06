@@ -16,7 +16,6 @@ public class Success_OReturns_Model {
 
         return getDataValueByAttribute(success_oReturns.ValidateOrderNumber_Success_take);
     }
-
     public String ValidateTheName_Success(){
         return getDataValueByAttribute(success_oReturns.ValidateName_Success_take);
     }

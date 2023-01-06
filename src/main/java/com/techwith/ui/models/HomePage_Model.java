@@ -14,7 +14,6 @@ public class HomePage_Model {
     @Autowired
     public HomePage_OReturns homePageOReturns;
 
-
     public void CreateAReturn(){
         ClickBy(homePageOReturns.CreateAReturnButton);
     }
