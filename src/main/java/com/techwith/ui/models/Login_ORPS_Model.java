@@ -28,6 +28,9 @@ public class Login_ORPS_Model {
     public void ClickCreateOuterDropdownMenu(){
         ClickBy(login_orps.ClickCreateOuterDropdownMenu);
     }
+    public void ClickOuterReportsDropdownMenu(){
+        ClickBy(login_orps.ClickOuterReportsDropdownMenu);
+    }
     public void ClickMAWBOuterConsolidations(){
         ClickBy(login_orps.ClickMAWBOuterConsolidations);
     }

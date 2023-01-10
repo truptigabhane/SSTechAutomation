@@ -13,4 +13,5 @@ public class Login_ORPS {
     public By ClickOnProcessingMenu = By.xpath("(//a[@class='dropdown-toggle'][normalize-space()='Processing'])[1]");
     public By ClickMAWBOuterConsolidations = By.xpath("//a[normalize-space()='MAWB - Outer Consolidations']");
     public By ClickCreateOuterDropdownMenu = By.xpath("//a[normalize-space()='Create Outer']");
+    public By ClickOuterReportsDropdownMenu = By.xpath("//a[normalize-space()='Outer Reports']");
 }

@@ -23,6 +23,9 @@ public class Login_ORPS_Methods {
     public void ClickCreateOuterDropdownMenu(){
         login_orps_model.ClickCreateOuterDropdownMenu();
     }
+    public void ClickOuterReportsDropdownMenu(){
+        login_orps_model.ClickOuterReportsDropdownMenu();
+    }
     public void ClickMAWBOuterConsolidations(){
         login_orps_model.ClickMAWBOuterConsolidations();
     }

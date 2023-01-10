@@ -37,6 +37,11 @@ public class Login_ORPS_Steps {
         login_orps_methods.ClickCreateOuterDropdownMenu();
         Thread.sleep(1000);
     }
+    @And("Click Outer Reports Dropdown Menu")
+    public void clickOuterReportsDropdownMenu() throws InterruptedException {
+        login_orps_methods.ClickOuterReportsDropdownMenu();
+        Thread.sleep(1000);
+    }
     @And("Click MAWB - Outer Consolidations")
     public void clickMAWBOuterConsolidations() throws InterruptedException {
         login_orps_methods.ClickMAWBOuterConsolidations();
