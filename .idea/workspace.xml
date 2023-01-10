@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daa6d2fa-9b6b-45de-8aea-167f89aa5cce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techwith/ui/LocatorsPage/CreateOuter_ORPS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techwith/ui/LocatorsPage/OuterReport_ORPS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techwith/ui/models/CreateOuter_ORPS_Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techwith/ui/models/OuterReport_ORPS_Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techwith/ui/pages/CreateOuter_ORPS_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techwith/ui/pages/OuterReport_ORPS_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techwith/steps/ui/CreateOuter_ORPS_Steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techwith/steps/ui/OuterReport_ORPS_Steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/featurefiles/ui/00.Outer.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techwith/ui/LocatorsPage/Login_ORPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techwith/ui/LocatorsPage/Login_ORPS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techwith/ui/models/Login_ORPS_Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techwith/ui/models/Login_ORPS_Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techwith/ui/pages/Login_ORPS_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techwith/ui/pages/Login_ORPS_Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techwith/steps/ui/Login_ORPS_Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techwith/steps/ui/Login_ORPS_Steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/featurefiles/ui/00.PHD-873.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/featurefiles/ui/00.PHD-873.feature" afterDir="false" />
-    </list>
+    <list default="true" id="daa6d2fa-9b6b-45de-8aea-167f89aa5cce" name="Changes" comment="OuterReport_ORPS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,6 +141,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670818678829</updated>
     </task>
+    <task id="LOCAL-00001" summary="OuterReport_ORPS">
+      <created>1673368074726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673368074726</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,5 +161,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OuterReport_ORPS" />
+    <option name="LAST_COMMIT_MESSAGE" value="OuterReport_ORPS" />
   </component>
 </project>
